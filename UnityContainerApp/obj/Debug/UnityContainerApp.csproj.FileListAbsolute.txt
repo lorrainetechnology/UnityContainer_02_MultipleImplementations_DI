@@ -1,0 +1,15 @@
+C:\coding\dependencyinjection\dotnetcoredi\UnityContainerApp\UnityContainerApp\bin\Debug\UnityContainerApp.exe.config
+C:\coding\dependencyinjection\dotnetcoredi\UnityContainerApp\UnityContainerApp\bin\Debug\UnityContainerApp.exe
+C:\coding\dependencyinjection\dotnetcoredi\UnityContainerApp\UnityContainerApp\bin\Debug\UnityContainerApp.pdb
+C:\coding\dependencyinjection\dotnetcoredi\UnityContainerApp\UnityContainerApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\coding\dependencyinjection\dotnetcoredi\UnityContainerApp\UnityContainerApp\bin\Debug\Unity.Abstractions.dll
+C:\coding\dependencyinjection\dotnetcoredi\UnityContainerApp\UnityContainerApp\bin\Debug\Unity.Container.dll
+C:\coding\dependencyinjection\dotnetcoredi\UnityContainerApp\UnityContainerApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\coding\dependencyinjection\dotnetcoredi\UnityContainerApp\UnityContainerApp\bin\Debug\Unity.Abstractions.pdb
+C:\coding\dependencyinjection\dotnetcoredi\UnityContainerApp\UnityContainerApp\bin\Debug\Unity.Container.pdb
+C:\coding\dependencyinjection\dotnetcoredi\UnityContainerApp\UnityContainerApp\obj\Debug\UnityContainerApp.csproj.AssemblyReference.cache
+C:\coding\dependencyinjection\dotnetcoredi\UnityContainerApp\UnityContainerApp\obj\Debug\UnityContainerApp.csproj.SuggestedBindingRedirects.cache
+C:\coding\dependencyinjection\dotnetcoredi\UnityContainerApp\UnityContainerApp\obj\Debug\UnityContainerApp.csproj.CoreCompileInputs.cache
+C:\coding\dependencyinjection\dotnetcoredi\UnityContainerApp\UnityContainerApp\obj\Debug\UnityContainerApp.csproj.CopyComplete
+C:\coding\dependencyinjection\dotnetcoredi\UnityContainerApp\UnityContainerApp\obj\Debug\UnityContainerApp.exe
+C:\coding\dependencyinjection\dotnetcoredi\UnityContainerApp\UnityContainerApp\obj\Debug\UnityContainerApp.pdb
